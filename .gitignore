@@ -1,0 +1,8 @@
+
+.*.swp
+*~
+*.bak
+*.wip
+
+.terraform*
+
